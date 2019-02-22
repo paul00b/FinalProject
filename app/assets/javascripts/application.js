@@ -28,6 +28,8 @@
 //= require js/sparkline
 //= require chocolat/js/jquery.chocolat
 //= require js/Chart
+//= require dropzone/dropzone
+
 //= require OwlCarousel/owl.carousel
 //= require jqvmap/jquery.vmap
 //= require js/pwstrength
@@ -64,5 +66,4 @@
 //= require js/page/modules-toastr
 //= require js/page/modules-vector-map
 //= require js/page/utilities-contact
-
 
