@@ -25,6 +25,7 @@
 //= require js/custom
 //= require js/scripts
 //= require js/stisla
+//= require js/cleave
 //= require js/sparkline
 //= require chocolat/js/jquery.chocolat
 //= require js/Chart
