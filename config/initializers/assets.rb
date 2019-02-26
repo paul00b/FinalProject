@@ -9,6 +9,8 @@ Rails.application.config.assets.version = '1.0'
 Rails.application.config.assets.paths << Rails.root.join('node_modules')
 Rails.application.config.assets.paths << Rails.root.join('lib')
 Rails.application.config.assets.paths << Rails.root.join('vendor/assets')
+Rails.application.config.assets.precompile += %w( landing.scss landing.js )
+Rails.application.config.assets.precompile += %w( dashboard.scss dashboard.js )
 
 # Precompile additional assets.
 # application.js, application.css, and all non-JS/CSS in the app/assets
