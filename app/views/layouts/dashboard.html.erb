@@ -23,12 +23,11 @@
 
   <div id="app">
     <div class="main-wrapper main-wrapper-1">
-        <%= render "layouts/navbar"  %>
-        <%= render "layouts/sidebar"  %>
+        <%= render "layouts/navbar_dashboard"  %>
+        <%= render "layouts/sidebar_dashboard"  %>
         <%= yield %>
         <%= javascript_include_tag 'dashboard' %>
-        <%= render "layouts/footer"  %>
-
+        <%= render "layouts/footer_dashboard"  %>
       </div>
     </div>
   </body>
