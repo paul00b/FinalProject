@@ -30,7 +30,6 @@
 //= require js/Chart
 //= require dropzone/dropzone
 
-//= require OwlCarousel/owl.carousel
 //= require jqvmap/jquery.vmap
 //= require js/pwstrength
 //= require js/page/index
