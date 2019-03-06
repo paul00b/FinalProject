@@ -12,7 +12,6 @@
 //
 //= require rails-ujs
 //= require activestorage
-//= require turbolinks
 //= require_tree .
 //= require js/jquery
 //= require js/popper
@@ -31,7 +30,6 @@
 //= require js/Chart
 //= require dropzone/dropzone
 
-//= require OwlCarousel/owl.carousel
 //= require jqvmap/jquery.vmap
 //= require js/pwstrength
 //= require js/page/index
